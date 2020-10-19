@@ -58,8 +58,11 @@
     
     6.PlagiarismChecker : To check the similarity.
     
+ ## Block Diagram :
+ 
  ![Block Diagram](https://raw.githubusercontent.com/ShalinKumarTamiri/plagbot/main/Blockdiagram.jpg)
  
  
  ## Demo video link :
     
+    https://youtu.be/hWwbeVJXG1M
