@@ -24,7 +24,7 @@ def fileChecker():
  		file2 = input("Enter file2 name : ")
  		try:
  			file2 = open(file2,"r")
- 			for line in file1:
+ 			for line in file2:
  				for w in line.split():
  					words.append(w)
  			words = list(set(words))
